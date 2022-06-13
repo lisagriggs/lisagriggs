@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @lisagriggs
 - 👀 I’m interested in how things function, games and sci-fi movies.
-- 🌱 I’m currently learning html, java and phython. Want to look into C++ too. 
+- 🤞 A graphic designer who wants to go into front-end engineering.
+- 🌱 I’m currently learning html, css, java and phython. Would like to learn as many as possible. 
 
 <br>
-
-- 🥅 A goal of mine is to make this page more interesting and individual 
 
 <!---
 lisagriggs/lisagriggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
