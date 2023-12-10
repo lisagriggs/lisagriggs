@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lisagriggs
+- 👋 Hi, I’m Lisa
 - 👀 I’m interested in how things function, games and sci-fi movies.
-- 🤞 A graphic designer who wants to go into front-end or software development.
+- 🤞 Would like to go into front-end development
 - 🌱 I’m currently engaged in html, css, java and python. Would like to learn as many as possible. 
 
 <!---
