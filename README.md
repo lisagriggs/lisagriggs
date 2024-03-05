@@ -7,3 +7,12 @@
 lisagriggs/lisagriggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# h1 #
+## h2 ##
+### h3 ###
+
+_hello_
+**hello**
+
+[this is a link](www.link.com)
