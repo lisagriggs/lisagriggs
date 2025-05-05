@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lisa! #
 - 👀 I’m interested in how things function, games and sci-fi movies.
 - 🤞 Would like to go into front-end development
-- 🌱 I’m currently engaged in html, css, java and python.
+- 🌱 I’m currently engaged in html, css, and javascript.
 - 🍗 Would sell my soul for a life-time of chicken nuggets
 
 <!---
