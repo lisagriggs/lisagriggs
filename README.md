@@ -14,4 +14,4 @@ Studied and worked as a graphic designer for the best part of 10 years, I was al
 
 ## Links ##
 
-[Design Portfolio](https://www.lisagriggs.space/)
+
